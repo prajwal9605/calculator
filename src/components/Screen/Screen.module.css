@@ -1,0 +1,19 @@
+.Screen {
+    background-color: #000;
+    color: #eee;
+    text-align: right;
+    vertical-align: bottom;
+    margin: 0px auto;
+    width: 400px;
+    height: 150px;
+    position: relative;
+}
+
+.Result {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 36pt;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
